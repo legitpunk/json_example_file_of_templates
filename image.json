@@ -1,0 +1,66 @@
+[
+	{
+		"button":
+		[
+			{
+				"img_poster":
+				[
+				
+				]
+			},
+			{
+				"div":
+				[
+					"display_flex",
+					"width_100pc",
+					{
+						"div":
+						[
+							"display_inlineblock",
+							"width_30pc",
+							{
+								"pasteinplace/view":
+								[
+									
+								]
+							}
+						]
+					},
+					{
+						"div":
+						[
+							"display_inlineblock",
+							"width_60pc",
+							"textalign_center",
+							{
+								"pasteinplace/rating":
+								[
+									
+								]
+							}
+						]
+					},
+					{
+						"div":
+						[
+							"display_inlineblock",
+							"width_30pc",
+							{
+								"datepublished":
+								[
+									
+								]
+							}
+						]
+					}
+				]
+			},
+			{
+				"title":
+				[
+					
+				]
+			}
+		]
+	}
+]
